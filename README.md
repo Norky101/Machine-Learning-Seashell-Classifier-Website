@@ -2,7 +2,8 @@
 # Coastal Hacks Entry 2022
 
 ### Inspiration 
-Seashell was inspired by the hack theme and was derived from different type of shell the ocean current brings to the shore. It was discovered that many tourist don’t know the name of each of this shell they play with at the sea shore so we delve into the research to educate the tourist while they enjoy their vacation.
+
+Seashell was inspired by the hacking theme and was derived from different types of shells the ocean current brings to the shore. It was discovered that many tourists don’t know the name of each of the seashells they play with at the seashore so we delve into the research to educate the tourist while they enjoy their vacation.
 
 ### Purpose: Seashell is a website application that is used to identify different seashells.
 
